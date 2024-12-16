@@ -1,1 +1,1 @@
-# movieAPI
+These are the Java backend files written in IntelliJ and the React, CSS, and HTML frontend files created in Visual Studio Code for a movie website where you can leave reviews, watch movie trailers, scroll through the movie list, and enjoy the visual design of the site. It also includes a MongoDB database and an ngrok utility link that makes the site fully functional. I haven't deployed it yet, but I can answer any questions you may have. Enjoy!
